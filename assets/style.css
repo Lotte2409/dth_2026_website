@@ -3,6 +3,7 @@
 /* here we import the Lexend font from Google fonts. You can browse other fonts at https://fonts.google.com/*/
 @import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
 
+
 /* here we set up project specific variables - this way we can keep the style consistent across all pages and elements. You can also create variable names for specific fonts and other elements */
 :root {
   --white: #ffffff;
@@ -19,11 +20,11 @@
 /* individual element styles */
 
 body {
-  font-family: 'Times New Roman', Times, serif
+  font-family: 'Times New Roman', Times, serif;
   padding: 0;
   margin: 0;
   font-weight: 300;
-  font-size: 18px;
+  font-size: 18px
 }
 
 /* some of HTML elements come with element specific style, we want to remove it so we can style them ourselves */
@@ -68,7 +69,7 @@ section {
 /* hero banner */
 
 #pageHero {
-  background-image: url("./images/Banner.jpg");
+  background-image: url("./images/open\ source\ software.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -230,5 +231,6 @@ main img {
 }
 
 #page_two h2 { color: var(--blue); }
-#page_two h1 { color: var(--blue); }
-#page_two h3 { color: var(--blue); }
+#page_one h2 { color: var(--blue); }
+#page_three h2 { color: var(--blue); }
+#sources h2 { color: var(--blue); }
