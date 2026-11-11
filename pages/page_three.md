@@ -26,3 +26,5 @@ As Omeka is an open software tool meant to create digital archives, it can be he
 7. The Getty Foundation
 8. National Endowment for the Humanities
 
+[Sources](https://lotte2409.github.io/dth_2026_website/index.html?page=sources)
+

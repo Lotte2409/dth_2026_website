@@ -18,3 +18,5 @@ Linux is one of the best Open-Source software providing an alternative for Close
 You can also add images from the assets folder:
 
 ![The beach at Skagen](./assets/images/skagen.jpg)
+
+[Sources](https://lotte2409.github.io/dth_2026_website/index.html?page=sources)

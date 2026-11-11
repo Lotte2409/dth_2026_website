@@ -11,6 +11,8 @@ Another issue is that Open Source, is not always user friendly, so if somebody d
 ### Is it really a disadvantage of Open Source?
 One thing which is not necessarily an Open Source issue but needs to be kept in mind is that Open Source might not be compatible with your Operating System due to regulations of the Closed Source software provider. 
 
+[Sources](https://lotte2409.github.io/dth_2026_website/index.html?page=sources)
+
 
 
 
