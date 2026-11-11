@@ -15,8 +15,6 @@ Linux is one of the best open-source software providing an alternative for close
 - Another huge advantage of open source is that it is collaborative work, meaning that open source has a community behind it. When an error is detected, there are people working on a bug fix quickly and thus open source has a great chance of working more smoothly.  
 - As mentioned earlier, transparency is one of the most defining factors of open source, which is a vital advantages. Every person who knows a bit a about how open source can see exactly how it works. You can easily review the code and adapt to your needs, as you have access to the data. 
 
-### A smaller headline
-
 You can also add images from the assets folder:
 
 ![The beach at Skagen](./assets/images/skagen.jpg)
