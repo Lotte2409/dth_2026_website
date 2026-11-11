@@ -3,6 +3,7 @@
 ## Advantages of Open Source 
 
 ***A short introduction to open Source*** 
+
 Open Source: Open Source is very transparent. People can see code changes, and many people, up to thousands, work on it together. This strengthens collaboration and innovation. Meaning that it is a key concept for technology currently and in the future. One of the most well-known Open-Source software is *[Linux](https://github.com/torvalds/linux)* which can be accessed through the github.
 
 ### Linux 
