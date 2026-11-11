@@ -14,6 +14,7 @@ As Omeka is an open software tool meant to create digital archives, it can be he
 -	Contributors: 42
 -	Most if not all issues get resolved according to their Github
 - 	They are selfsustainable now and non-profit in the past they were funded by the following contributors.
+
 **List of funders**
 1. Roy Rosenzweig Center for History and New Media
 2. Alfred P. Sloan Foundation
